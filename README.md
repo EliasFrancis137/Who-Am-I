@@ -55,3 +55,17 @@ You can find a website that I have made from scratch showing all the technical s
     <td></td><td></td><td></td>
   </tr>
 </table>
+
+<h2>My Project Plan</h2>
+  <tr><td colspan=3>Beginner</td><td colspan=3>Intermediate</td><td colspan=3>Advanced</td></tr>
+  <tr>
+    <td>To-Do</td>
+    <td>Doing</td>
+    <td>Done</td>
+    <td>To-Do</td>
+    <td>Doing</td>
+    <td>Done</td>
+    <td>To-Do</td>
+    <td>Doing</td>
+    <td>Done</td>
+  </tr>
