@@ -109,3 +109,60 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
     <td>Machine Learning Model Deployment</td><td></td><td></td><td>Train model (e.g., fraud detection), deploy via FastAPI + AWS SageMaker or GCP Vertex AI</td>
   </tr>
 </table>
+
+<h2>My LinkedIn Posts</h2>
+<table>
+  <tr>
+    <td>Title</td><td>Descriptiion</td><td>Reflection</td>
+  </tr>
+  <tr>
+    <td>Why I Started Simple</td>
+    <td>Share why you chose to build a portfolio with just HTML & CSS before moving to frameworks.</td>
+    <td>mastering fundamentals builds confidence.</td>
+  </tr>
+  <tr>
+    <td>From Tutorials to Projects</td>
+    <td>Talk about the shift from following tutorials to building something that’s truly yours.</td>
+    <td>it feels harder but also more rewarding.</td>
+  </tr>
+  <tr>
+    <td>Learning Patience in Development</td>
+    <td>Share how small progress (like fixing responsive design) taught you patience.</td>
+    <td>little wins add up over time.</td>
+  </tr>
+  <tr>
+    <td>Overcoming Frustration</td>
+    <td>Write about a time you got stuck (maybe contact form or responsiveness).</td>
+    <td>frustration is part of growth, and solving it boosts confidence.</td>
+  </tr>
+  <tr>
+    <td>Consistency Beats Intensity</td>
+    <td>Share how working a bit every day on the portfolio feels better than trying to finish it all at once.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>How My Mindset Changed</td>
+    <td>At first you wanted it perfect, but then you realized shipping version 1 matters more.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Power of Version 1</td>
+    <td>Reflect on why finishing a basic version is more important than waiting to build the “perfect” portfolio.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Seeing Progress Clearly</td>
+    <td>Share screenshots of your first draft vs. a polished version.</td>
+    <td>visual proof of growth keeps motivation high.</td>
+  </tr>
+  <tr>
+    <td>Every Small Feature is a Lesson</td>
+    <td>E.g., smooth scrolling taught you about UX, hover effects taught you about micro-interactions.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Future Growth Mindset</td>
+    <td>Share how you see each portfolio version as a milestone in your journey to becoming a stronger developer.</td>
+    <td></td>
+  </tr>
+</table>
