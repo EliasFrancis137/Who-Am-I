@@ -1,5 +1,15 @@
 # Who-Am-I
-You can find a website that I have made from scratch showing all the technical skills I have discussed in my CV
+Welcome to my personal GitHub repository — a central hub that reflects my journey as an aspiring software engineer.
+
+Here you'll find:
+My LinkedIn profile
+My resume
+My portfolio website (coming soon)
+Daily progress updates and documentation
+
+Starting September 28, 2025, I'm committing to a personal challenge: every day, I will complete small tasks that contribute to my growth in software engineering. These tasks include certifications, projects, and learning goals outlined in the tables below.
+There is no fixed deadline — this is a long-term, consistent effort to build skills, showcase progress, and stay accountable. I’ll be documenting everything daily, sharing insights, and updating this repository as I go.
+Whether you're a recruiter, collaborator, or fellow learner, I invite you to follow along and connect. Let’s build something meaningful together.
 
 <h2>My Certification Plan</h2>
 <table>
@@ -16,43 +26,43 @@ You can find a website that I have made from scratch showing all the technical s
     <td>EITCA AI Certification</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>Scrum Master (CSM)</td><td></td><td></td>
   </tr>
   <tr>
     <td>AWS Certified Cloud Practitioner</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>Project Management Professional (PMP)</td><td></td><td></td>
   </tr>
   <tr>
     <td>Google Associate Cloud Engineer</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>Google Project Management (Coursera)</td><td></td><td></td>
   </tr>
   <tr>
     <td>Meta Front-End Developer (Coursera)</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>LinkedIn Learning: Communication for Tech Professionals</td><td></td><td></td>
   </tr>
   <tr>
     <td>IBM DevOps and Software Engineering</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>Business Analysis Fundamentals (Udemy)</td><td></td><td></td>
   </tr>
   <tr>
     <td>Microsoft Azure Fundamentals</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>Leadership & Emotional Intelligence (LinkedIn Learning)</td><td></td><td></td>
   </tr>
   <tr>
     <td>CS50x (Harvard’s Intro to Computer Science)</td>
     <td></td>
     <td></td>
-    <td></td><td></td><td></td>
+    <td>Technical Writing (Coursera or Udemy)</td><td></td><td></td>
   </tr>
 </table>
 
@@ -63,11 +73,39 @@ You can find a website that I have made from scratch showing all the technical s
     <td>To-Do</td>
     <td>Doing</td>
     <td>Done</td>
+    <td>Skills Highlighted</td>
     <td>To-Do</td>
     <td>Doing</td>
     <td>Done</td>
+    <td>Skills Highlighted</td>
     <td>To-Do</td>
     <td>Doing</td>
     <td>Done</td>
+    <td>Skills Highlighted</td>
+  </tr>
+  <tr>
+    <td>Portfolio Website</td><td></td><td></td><td>HTML, CSS, JavaScript, React</td>
+    <td>Task Manager with Auth</td><td></td><td></td><td>Full-stack (React + Node/Laravel), JWT, REST APIs</td>
+    <td>Multi-Tenant SaaS Dashboard</td><td></td><td></td><td>Full-stack architecture, role-based access, deployment</td>
+  </tr>
+  <tr>
+    <td>To-Do List App</td><td></td><td></td><td>CRUD operations, local storage, basic UI</td>
+    <td>CI/CD Pipeline Demo</td><td></td><td></td><td>GitHub Actions, AWS or Azure, Docker</td>
+    <td>AI Chatbot with Context Memory</td><td></td><td></td><td>NLP, Transformers, LangChain or RAG models</td>
+  </tr>
+  <tr>
+    <td>Weather App</td><td></td><td></td><td>API integration, async JS, UI design</td>
+    <td>Chat App (Real-Time)</td><td></td><td></td><td>WebSockets, Firebase or Socket.io</td>
+    <td>Cloud-Based File Storage System</td><td></td><td></td><td>AWS S3, Lambda, DynamoDB, IAM</td>
+  </tr>
+  <tr>
+    <td>Markdown Blog Viewer</td><td></td><td></td><td>React, file parsing, content rendering</td>
+    <td>Expense Tracker with Charts</td><td></td><td></td><td>React, Chart.js, backend storage</td>
+    <td>DevOps Monitoring Dashboard</td><td></td><td></td><td>Prometheus, Grafana, Docker, Kubernetes</td>
+  </tr>
+  <tr>
+    <td>Simple Calculator</td><td></td><td></td><td>JavaScript logic, UI responsiveness</td>
+    <td>AI-Powered Resume Analyzer</td><td></td><td></td><td>Python, NLP, Streamlit or Flask</td>
+    <td>Machine Learning Model Deployment</td><td></td><td></td><td>Train model (e.g., fraud detection), deploy via FastAPI + AWS SageMaker or GCP Vertex AI</td>
   </tr>
 </table>
