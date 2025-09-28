@@ -1,10 +1,10 @@
 # Who-Am-I
 Welcome to my personal GitHub repository — a central hub that reflects my journey as an aspiring software engineer.
 
-Here you'll find:
-My LinkedIn profile
-My resume
-My portfolio website (coming soon)
+Here you'll find:<br>
+My LinkedIn profile<br>
+My resume<br>
+My portfolio website (coming soon)<br>
 Daily progress updates and documentation
 
 Starting September 28, 2025, I'm committing to a personal challenge: every day, I will complete small tasks that contribute to my growth in software engineering. These tasks include certifications, projects, and learning goals outlined in the tables below.
