@@ -2,8 +2,8 @@
 Welcome to my personal GitHub repository — a central hub that reflects my journey as an aspiring software engineer.
 
 Here you'll find:<br>
-My LinkedIn profile<br>
-My resume<br>
+<a href="https://www.linkedin.com/in/elias-francis/">My LinkedIn profile</a><br>
+<a href="https://drive.google.com/file/d/1RSS7-I-s8oYUfDYlHkbbaJQo1sqErVdG/view?usp=drive_link">My resume</a><br>
 My portfolio website (coming soon)<br>
 Daily progress updates and documentation
 
