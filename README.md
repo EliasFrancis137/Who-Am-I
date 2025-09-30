@@ -89,7 +89,7 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
     <td>Multi-Tenant SaaS Dashboard</td><td></td><td></td><td>Full-stack architecture, role-based access, deployment</td>
   </tr>
   <tr>
-    <td>To-Do List App 2</td><td>To-Do List App 1</td><td></td><td>CRUD operations, local storage, basic UI</td>
+    <td>To-Do List App 2</td><td></td><td>To-Do List App 1</td><td>CRUD operations, local storage, basic UI</td>
     <td>CI/CD Pipeline Demo</td><td></td><td></td><td>GitHub Actions, AWS or Azure, Docker</td>
     <td>AI Chatbot with Context Memory</td><td></td><td></td><td>NLP, Transformers, LangChain or RAG models</td>
   </tr>
