@@ -66,6 +66,114 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
   </tr>
 </table>
 
+<h2>My Free Certification Plan</h2>
+  <table>
+        <tr>
+            <th colspan="3">Technical</th>
+            <th colspan="3">Non-Technical</th>
+        </tr>
+        <tr>
+            <th>To-Do</th>
+            <th>Doing</th>
+            <th>Done</th>
+            <th>To-Do</th>
+            <th>Doing</th>
+            <th>Done</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>CS50x (Harvard’s Intro to Computer Science)</td>
+            <td></td>
+            <td></td>
+            <td>HubSpot Academy: Digital Marketing</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>freeCodeCamp: Responsive Web Design</td>
+            <td></td>
+            <td></td>
+            <td>HubSpot Academy: Inbound Sales</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>freeCodeCamp: JavaScript Algorithms & Data Structures</td>
+            <td></td>
+            <td></td>
+            <td>HubSpot Academy: Content Marketing</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>freeCodeCamp: Front End Libraries</td>
+            <td></td>
+            <td></td>
+            <td>HubSpot Academy: CRM</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>freeCodeCamp: APIs & Microservices</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Kaggle Micro-Courses (Python, ML, Data Viz)</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microsoft Learn: Azure Fundamentals (AZ-900)</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>AWS Training & Certification Free Courses</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Google Cloud Skills Boost Fundamentals</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>IBM AI / Data Science Foundations (Cognitive Class)</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cisco Networking Academy Courses</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+    <caption>Certificates might be paid but badges are offered for free and are LinkedIn friendly.</caption>
+</table>
+
 <h2>My Project Plan</h2>
 <table>
   <tr><td colspan=4>Beginner</td><td colspan=4>Intermediate</td><td colspan=4>Advanced</td></tr>
