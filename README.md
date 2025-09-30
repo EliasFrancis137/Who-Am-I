@@ -84,12 +84,12 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
     <td>Skills Highlighted</td>
   </tr>
   <tr>
-    <td>Portfolio Website</td><td></td><td></td><td>HTML, CSS, JavaScript, React</td>
+    <td>Portfolio Website 2, 3</td><td>Portfolio Website 1</td><td></td><td>HTML, CSS, JavaScript, React</td>
     <td>Task Manager with Auth</td><td></td><td></td><td>Full-stack (React + Node/Laravel), JWT, REST APIs</td>
     <td>Multi-Tenant SaaS Dashboard</td><td></td><td></td><td>Full-stack architecture, role-based access, deployment</td>
   </tr>
   <tr>
-    <td>To-Do List App</td><td></td><td></td><td>CRUD operations, local storage, basic UI</td>
+    <td></td><td>To-Do List App</td><td></td><td>CRUD operations, local storage, basic UI</td>
     <td>CI/CD Pipeline Demo</td><td></td><td></td><td>GitHub Actions, AWS or Azure, Docker</td>
     <td>AI Chatbot with Context Memory</td><td></td><td></td><td>NLP, Transformers, LangChain or RAG models</td>
   </tr>
