@@ -218,7 +218,7 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
   </tr>
 </table>
 
-<h2>My LinkedIn Posts</h2>
+<h2>Main LinkedIn Posts</h2>
 <table>
   <tr>
     <td>Title</td><td>Descriptiion</td><td>Reflection</td>
