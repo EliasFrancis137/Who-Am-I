@@ -176,6 +176,7 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
 
 <h2>My Project Plan</h2>
 <table>
+  <caption>Level 1: Frontend only - Level 2: Frontend and Backend - Level 3: Web Application or Mobile Application with advanced functionalities</caption>
   <tr><td colspan=4>Beginner</td><td colspan=4>Intermediate</td><td colspan=4>Advanced</td></tr>
   <tr>
     <td>To-Do</td>
