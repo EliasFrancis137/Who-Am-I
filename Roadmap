@@ -1,0 +1,92 @@
+Your 12-Month Full Developer Roadmap
+
+Month 1 – Beginner Foundations
+Week 1 – Python Basics: Variables, loops, functions → mini projects (calculator, number guesser, file renamer).
+Week 2 – Web Frontend (HTML, CSS, JS): Portfolio page, to-do list (frontend only), digital clock.
+Week 3 – C Basics (optional): CLI apps (temp converter, ATM simulation).
+Week 4 – Git & Deployment: Learn GitHub, host static site (Netlify/Pages), deploy your to-do list.
+
+Month 2 – Intermediate Apps
+Week 1 – Python (Intermediate): File handling, APIs, OOP → weather CLI, expense tracker (CSV).
+Week 2 – React + Tailwind: Notes app UI, learn props/state.
+Week 3 – Firebase: Auth + Firestore basics → to-do list with database.
+Week 4 – Integration: React + Firebase blog with login + post storage.
+
+Month 3 – Advanced Web Development
+Week 1 – Node.js & Express: REST APIs, CRUD → task API.
+Week 2 – MongoDB: Connect API to DB.
+Week 3 – MERN Stack: Build task manager app.
+Week 4 – Auth + Deployment: JWT auth, deploy (Render/Heroku, Mongo Atlas).
+
+Month 4 – Mobile Development (Flutter Basics)
+Week 1 – Flutter Widgets/Layouts: BMI calculator, counter app.
+Week 2 – Flutter + Firebase: Notes app with auth + Firestore.
+Week 3 – State Management: Provider/Bloc → budget tracker app.
+Week 4 – Deploy Mobile App: Build APK, publish on Play Store (beta).
+
+Month 5 – Data & APIs
+Week 1 – Python Data Tools: Pandas, Matplotlib → expense analysis dashboard.
+Week 2 – Django/FastAPI: Blog backend API.
+Week 3 – Next.js (Advanced React): Personal blog with SSR + APIs.
+Week 4 – Integration: Habit tracker (web + mobile) sharing same backend.
+
+Month 6 – Capstone 1 (First Half-Year)
+Week 1 – Choose Web Capstone: Project management tool, small e-commerce.
+Week 2 – Choose Mobile Capstone: Budgeting, habit tracker, journaling app.
+Week 3 – Polish & Deploy: Add responsive design, authentication.
+Week 4 – Portfolio Setup: Build dev portfolio (React/Next.js) + LinkedIn case study posts.
+
+🔥 Second Half-Year (Scaling Up)
+
+Month 7 – Advanced Backend & Databases
+Week 1 – SQL Basics (Postgres/MySQL): Queries, joins, relationships.
+Week 2 – Advanced APIs: Auth (JWT), sessions, file uploads.
+Week 3 – Project: User-authenticated notes app (React + Express + SQL).
+Week 4 – Review: Compare SQL vs NoSQL, optimize backend.
+
+Month 8 – Cloud & Deployment
+Week 1 – Docker Basics: Containerize a Node/Python app.
+Week 2 – AWS (EC2, S3): Host apps + upload files.
+Week 3 – CI/CD: GitHub Actions for auto-deploy.
+Week 4 – Project: Deploy full-stack MERN app with CI/CD pipeline.
+
+Month 9 – Flutter (Advanced)
+Week 1 – Advanced State Management: Riverpod/Bloc deep dive.
+Week 2 – Notifications + APIs: Push notifications, integrate REST APIs.
+Week 3 – Mini Projects: Weather API app, chat app.
+Week 4 – Main Project: Expense tracker with login + Firestore.
+
+Month 10 – React Native
+Week 1 – Basics with Expo: Navigation, hooks, styling.
+Week 2 – APIs + State: Connect to backend APIs.
+Week 3 – Mini Projects: To-do app, habit tracker.
+Week 4 – Main Project: Rebuild Flutter app in React Native (compare).
+
+Month 11 – Advanced Full-Stack Projects
+Week 1 – Payments: Stripe/PayPal integration.
+Week 2 – Role-Based Access: Admin vs user dashboards.
+Week 3 – Web + Mobile: Combine Flutter/React Native with MERN backend.
+Week 4 – Main Project: E-commerce app (products, cart, payments, auth).
+
+Month 12 – Capstone 2 (Year-End Showcase)
+Week 1 – Capstone Web App: (Project management, e-learning, or fintech app).
+Week 2 – Capstone Mobile App: (Budgeting, chat, or community app).
+Week 3 – Integration & Testing: Secure, polish, bug fixes.
+Week 4 – Final Portfolio & Branding:
+
+Update portfolio with all apps.
+Record demo videos of apps.
+LinkedIn posts: case studies + year recap.
+
+🎯 End of Year Outcome
+
+✅ 40–60 mini projects across Python, Web, and Mobile.
+✅ 4–6 major full-stack apps (React + Firebase/MERN + Flutter/React Native).
+✅ Portfolio website with all deployed projects.
+✅ Strong presence on LinkedIn (daily posts = proof of consistency).
+✅ Skills covering frontend, backend, mobile, cloud, and deployment → ready for:
+
+Full-Stack Developer jobs
+Frontend/React roles
+Mobile Developer (Flutter/React Native)
+Freelancing or launching your own startup app
