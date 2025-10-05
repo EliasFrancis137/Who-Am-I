@@ -11,3 +11,29 @@
     Weekly forecast
     Notifications
     Deployed online (e.g., Netlify + Firebase backend)
+
+---------------------------------To Do List---------------------------------------------
+🟢 Beginner Level
+Add and display tasks
+Delete tasks
+Mark tasks as completed
+Basic layout and styling
+Clear all tasks (optional)
+
+🟡 Intermediate Level
+Edit tasks
+Toggle complete/undo
+Save tasks with LocalStorage
+Add keyboard shortcuts (Enter key)
+Confirmation before delete/edit
+Improved design and responsiveness
+
+🔴 Advanced Level (Web and Mobile App)
+User accounts (login/signup)
+Task categories or projects
+Due dates and reminders
+Search and filter tasks
+Dark/Light mode
+Cloud sync or database (Firebase/Node.js)
+Analytics and progress tracking
+Deploy online (GitHub Pages / Netlify)
