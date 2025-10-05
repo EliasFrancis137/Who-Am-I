@@ -1,0 +1,13 @@
+##🌤 Weather App
+  Basic: Search for one city → show temp & humidity.
+  Intermediate: Add geolocation, error messages, dynamic backgrounds.
+  Advanced 1: Create a web app with:
+    Login (favorite cities saved)
+    Weekly forecast
+    Notifications
+    Deployed online (e.g., Netlify + Firebase backend)
+  Advanced 2: Create a mobile app with:
+    Login (favorite cities saved)
+    Weekly forecast
+    Notifications
+    Deployed online (e.g., Netlify + Firebase backend)
