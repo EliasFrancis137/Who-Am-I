@@ -203,7 +203,7 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
     <td>AI Chatbot with Context Memory</td><td></td><td></td><td>NLP, Transformers, LangChain or RAG models</td>
   </tr>
   <tr>
-    <td>Weather App</td><td></td><td></td><td>API integration, async JS, UI design</td>
+    <td>Weather App 1 2 3</td><td></td><td></td><td>API integration, async JS, UI design</td>
     <td>Chat App (Real-Time)</td><td></td><td></td><td>WebSockets, Firebase or Socket.io</td>
     <td>Cloud-Based File Storage System</td><td></td><td></td><td>AWS S3, Lambda, DynamoDB, IAM</td>
   </tr>
@@ -213,7 +213,7 @@ Whether you're a recruiter, collaborator, or fellow learner, I invite you to fol
     <td>DevOps Monitoring Dashboard</td><td></td><td></td><td>Prometheus, Grafana, Docker, Kubernetes</td>
   </tr>
   <tr>
-    <td>Simple Calculator</td><td></td><td></td><td>JavaScript logic, UI responsiveness</td>
+    <td>Simple Calculator 2 3</td><td></td><td>Simple Calculator 1</td><td>JavaScript logic, UI responsiveness</td>
     <td>AI-Powered Resume Analyzer</td><td></td><td></td><td>Python, NLP, Streamlit or Flask</td>
     <td>Machine Learning Model Deployment</td><td></td><td></td><td>Train model (e.g., fraud detection), deploy via FastAPI + AWS SageMaker or GCP Vertex AI</td>
   </tr>
